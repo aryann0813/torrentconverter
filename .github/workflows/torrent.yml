@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "ForzaHorizon4"
+  comment: "Forza Horizon 4 Latest Version"
+  url: "https://cdn1.koyso.com/Forza.Horizon.4.v1.478.564.0.rar?verify=1730808647-SRxXvFYUtajkhyxiYgpDSMNHXpaCfvthuRRTVn6wzIk%3D"
+  file_name: "Forza.Horizon.4.v1.478.564.0.rar"
+  piece_size: 23 # Check the README.md for recommended piece size
       
 jobs:
   create:
